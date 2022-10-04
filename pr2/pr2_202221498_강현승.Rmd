@@ -3,8 +3,8 @@ title: "PR2"
 author: "강현승"
 date: "2022-09-15"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 # 1. R로 계산하기
